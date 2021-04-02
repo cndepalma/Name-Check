@@ -1,0 +1,7 @@
+C:\Users\Chris\Desktop\C# projects\names\names\obj\Debug\names.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\C# projects\names\names\bin\Debug\names.exe.config
+C:\Users\Chris\Desktop\C# projects\names\names\bin\Debug\names.exe
+C:\Users\Chris\Desktop\C# projects\names\names\bin\Debug\names.pdb
+C:\Users\Chris\Desktop\C# projects\names\names\obj\Debug\names.exe
+C:\Users\Chris\Desktop\C# projects\names\names\obj\Debug\names.pdb
+C:\Users\Chris\Desktop\C# projects\names\names\obj\Debug\names.csprojAssemblyReference.cache
